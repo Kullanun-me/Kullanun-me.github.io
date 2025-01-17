@@ -1,2 +1,2 @@
 # Kullanun-me.github.io
-![รูปภาพของฉัน](https://drive.google.com/file/d/1-PefrN6-AJgnQr84NzS62-b-VskD4DSJ/view?usp=drive_link)
+![รูปภาพของฉัน](https://github.com/Kullanun-me/Kullanun-me.github.io/blob/main/%E0%B8%88%E0%B8%B4%E0%B8%9A%E0%B8%8A%E0%B8%B2.jpeg.jpg?raw=true)
