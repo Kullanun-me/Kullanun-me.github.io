@@ -42,3 +42,31 @@ nav{
     text-decoration: none;
 
 }
+
+.maincontent{
+    background-color: azure;
+}
+
+.maincontent-con{
+    display: flex;
+}
+
+.maincontent-info{
+    width: 100%;
+    padding: 2rem;
+}
+
+.maincontent-info h3{
+    font-size: 2rem;
+}
+
+.maincontent-info p{
+    margin: 1rem 0;
+}
+
+.maincontent-info .maicontent-btn{
+    background-color:#5499c7;
+    padding: 1rem;
+    text-decoration: none;
+}
+
